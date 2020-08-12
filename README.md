@@ -42,3 +42,13 @@ const pk = new Pikachu();
 //showメソッド実行
 pk.show();
 ```
+
+## 実行
+
+```
+node classPikachu.js
+```
+```
+name:ピカチュウ
+type:でんき
+```

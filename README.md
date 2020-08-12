@@ -43,7 +43,7 @@ const pk = new Pikachu();
 pk.show();
 ```
 
-## 実行
+## 実行1 Node.js
 
 ```
 node classPikachu.js
@@ -52,3 +52,9 @@ node classPikachu.js
 name:ピカチュウ
 type:でんき
 ```
+
+## 実行2 GoogleChrome（開発ツール）
+```
+Chrome -> F12（開発ツール） -> Console
+```
+![pika](images/classpika1.png)

@@ -1,6 +1,6 @@
 # about
 
-Javascriptは2015年に大幅にアップデートされました。
+Javascriptは2015年、大幅にアップデートされました。
 通称ES6（ECMAScript6）
 
 ES6ではJavaやC#等のオブジェクト指向言語を意識したClass構文が追加されました。
